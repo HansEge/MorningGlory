@@ -1,6 +1,5 @@
 #include "bed.h"
-
-
+dseffsef
 
 bed::bed()
 {
