@@ -20,6 +20,8 @@ public:
 	void closeGUI() const;
 	void run();
 
+	//This is a test line
+
 private:
 	int setMode();
 	int mode[SIZE];
